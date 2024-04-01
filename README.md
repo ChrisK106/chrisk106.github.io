@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/ChrisK106/chrisk106.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ChrisK106/chrisk106.github.io/actions/workflows/pages/pages-build-deployment)
+
 # ¡Bienvenido a mi portafolio personal! 📁
 Soy Christian Cano, un apasionado **Desarrollador de Software** y **Productor Musical**, y este es mi espacio para mostrar mis certificados, proyectos y compartir parte de mi trabajo y experiencia en ambas disciplinas. 
 
